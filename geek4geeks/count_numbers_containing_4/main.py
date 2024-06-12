@@ -1,6 +1,3 @@
-
-
-
 import json
 
 class Solution:
@@ -21,9 +18,6 @@ class Solution:
                         break
         
             return total
-
-
-
 
 if __name__ == "__main__":
 
